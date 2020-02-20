@@ -1,0 +1,8 @@
+{"employees":[  
+        {"name":"Bill", "gender":"Male", "email":"bill@gmail.com"},  
+        {"name":"Joe", "gender":"Male", "email":"joe@gmail.com"},
+        {"name":"Sue", "gender":"Female", "email":"sue@gmail.com"},
+        {"name":"Tim", "gender":"Male", "email":"tim@gmail.com"},  
+        {"name":"Sally", "gender":"Female", "email":"sally@gmail.com"}  
+    ]
+}
